@@ -1,2 +1,3 @@
-# programming-for-children
-Programming for Children
+# 少儿编程
+
+本项目的主要目的是收集和整理关于少儿编程及计算思维培养的相关资源。
